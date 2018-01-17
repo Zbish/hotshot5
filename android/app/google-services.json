@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "446556254777",
+    "firebase_url": "https://hotshotrussia.firebaseio.com",
+    "project_id": "hotshotrussia",
+    "storage_bucket": "hotshotrussia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446556254777:android:ca88bc25eb5d809b",
+        "android_client_info": {
+          "package_name": "com.hotshotrussia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446556254777-g064h3s0s19bhtj2t75oscm6egg2d2fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_HRViJ3oHVfSyInVZbHXkoShjtWvNVfU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
